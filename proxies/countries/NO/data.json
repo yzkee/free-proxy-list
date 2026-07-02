@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://166.0.9.160:9443",
+    "proxy": "http://13.48.13.125:8832",
     "protocol": "http",
-    "ip": "166.0.9.160",
-    "port": 9443,
+    "ip": "13.48.13.125",
+    "port": 8832,
     "https": true,
     "anonymity": "transparent",
     "score": 1,

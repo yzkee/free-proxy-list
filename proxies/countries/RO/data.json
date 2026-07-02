@@ -2210,6 +2210,19 @@
     }
   },
   {
+    "proxy": "http://43.218.124.29:15906",
+    "protocol": "http",
+    "ip": "43.218.124.29",
+    "port": 15906,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "RO",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://172.64.68.89:443",
     "protocol": "http",
     "ip": "172.64.68.89",
