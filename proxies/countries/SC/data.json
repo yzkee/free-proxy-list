@@ -13,11 +13,11 @@
     }
   },
   {
-    "proxy": "socks5://156.232.99.59:10801",
-    "protocol": "socks5",
-    "ip": "156.232.99.59",
-    "port": 10801,
-    "https": false,
+    "proxy": "http://13.38.217.179:11602",
+    "protocol": "http",
+    "ip": "13.38.217.179",
+    "port": 11602,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
