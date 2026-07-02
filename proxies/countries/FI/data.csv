@@ -1,12 +1,4 @@
-socks5://206.123.156.233:10058,FI,Unknown
-socks5://206.123.156.230:10057,FI,Unknown
-socks5://206.123.156.247:9541,FI,Unknown
-socks5://206.123.156.229:9919,FI,Unknown
-socks5://206.123.156.212:6519,FI,Unknown
-socks5://206.123.156.212:6878,FI,Unknown
-socks5://206.123.156.212:7663,FI,Unknown
-socks5://206.123.156.212:6788,FI,Unknown
-socks4://185.230.190.195:1080,FI,Unknown
+socks5://193.221.203.192:1080,FI,Unknown
 http://35.228.73.198:443,FI,Unknown
 http://65.108.208.20:443,FI,Unknown
 http://46.62.140.224:443,FI,Unknown

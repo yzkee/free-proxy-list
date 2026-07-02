@@ -1,0 +1,15 @@
+[
+  {
+    "proxy": "http://13.38.27.183:8636",
+    "protocol": "http",
+    "ip": "13.38.27.183",
+    "port": 8636,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IS",
+      "city": "Unknown"
+    }
+  }
+]

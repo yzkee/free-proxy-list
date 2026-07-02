@@ -52,10 +52,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.233:4789",
+    "proxy": "socks5://206.123.156.230:5778",
     "protocol": "socks5",
-    "ip": "206.123.156.233",
-    "port": 4789,
+    "ip": "206.123.156.230",
+    "port": 5778,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -169,10 +169,10 @@
     }
   },
   {
-    "proxy": "http://125.135.136.210:3068",
+    "proxy": "http://125.135.163.211:3096",
     "protocol": "http",
-    "ip": "125.135.136.210",
-    "port": 3068,
+    "ip": "125.135.163.211",
+    "port": 3096,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -182,75 +182,10 @@
     }
   },
   {
-    "proxy": "http://221.156.27.160:3088",
+    "proxy": "http://14.53.55.217:3128",
     "protocol": "http",
-    "ip": "221.156.27.160",
-    "port": 3088,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://221.156.27.160:3112",
-    "protocol": "http",
-    "ip": "221.156.27.160",
-    "port": 3112,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://221.156.27.160:3020",
-    "protocol": "http",
-    "ip": "221.156.27.160",
-    "port": 3020,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://221.156.27.160:3120",
-    "protocol": "http",
-    "ip": "221.156.27.160",
-    "port": 3120,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://221.156.27.160:3004",
-    "protocol": "http",
-    "ip": "221.156.27.160",
-    "port": 3004,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://221.156.27.160:3016",
-    "protocol": "http",
-    "ip": "221.156.27.160",
-    "port": 3016,
+    "ip": "14.53.55.217",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
