@@ -1,22 +1,9 @@
 [
   {
-    "proxy": "socks4://200.105.252.170:5678",
+    "proxy": "socks4://45.70.56.252:3629",
     "protocol": "socks4",
-    "ip": "200.105.252.170",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://177.234.247.218:1080",
-    "protocol": "socks4",
-    "ip": "177.234.247.218",
-    "port": 1080,
+    "ip": "45.70.56.252",
+    "port": 3629,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -62,19 +49,6 @@
     "geolocation": {
       "country": "EC",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://190.12.150.244:999",
-    "protocol": "http",
-    "ip": "190.12.150.244",
-    "port": 999,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Rosa Zarate"
     }
   }
 ]
