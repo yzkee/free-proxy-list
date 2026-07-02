@@ -13,49 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://84.201.144.65:10004",
-    "protocol": "socks5",
-    "ip": "84.201.144.65",
-    "port": 10004,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://178.115.255.177:5678",
+    "proxy": "socks4://51.83.226.103:9055",
     "protocol": "socks4",
-    "ip": "178.115.255.177",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://157.90.234.5:443",
-    "protocol": "socks4",
-    "ip": "157.90.234.5",
-    "port": 443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://185.135.81.149:9060",
-    "protocol": "socks4",
-    "ip": "185.135.81.149",
-    "port": 9060,
+    "ip": "51.83.226.103",
+    "port": 9055,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,19 +78,6 @@
     }
   },
   {
-    "proxy": "http://16.51.148.102:45",
-    "protocol": "http",
-    "ip": "16.51.148.102",
-    "port": 45,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://152.53.141.59:443",
     "protocol": "http",
     "ip": "152.53.141.59",
@@ -143,10 +91,23 @@
     }
   },
   {
-    "proxy": "http://54.215.41.74:54751",
+    "proxy": "http://35.183.127.162:46335",
     "protocol": "http",
-    "ip": "54.215.41.74",
-    "port": 54751,
+    "ip": "35.183.127.162",
+    "port": 46335,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://54.253.167.61:44605",
+    "protocol": "http",
+    "ip": "54.253.167.61",
+    "port": 44605,
     "https": true,
     "anonymity": "transparent",
     "score": 1,

@@ -1,6 +1,5 @@
-socks5://84.201.144.65:10003,RO,Unknown
+socks5://206.123.156.230:8480,RO,Unknown
 socks4://46.214.153.223:5678,RO,Unknown
-socks4://109.166.207.162:3629,RO,Unknown
 http://84.239.49.164:9002,RO,Unknown
 http://84.239.49.37:9002,RO,Unknown
 http://84.239.49.38:9002,RO,Unknown
@@ -169,8 +168,8 @@ http://85.158.220.164:443,RO,Unknown
 http://81.180.222.73:443,RO,Unknown
 http://46.243.119.92:443,RO,Unknown
 http://188.212.152.62:443,RO,Unknown
-http://66.234.147.194:443,RO,Unknown
-http://15.161.59.54:1329,RO,Unknown
+http://15.161.228.22:20741,RO,Unknown
+http://13.244.203.188:54852,RO,Unknown
 http://84.239.49.175:9002,RO,Unknown
 http://84.239.49.185:9002,RO,Unknown
 http://172.64.68.89:443,RO,Unknown
